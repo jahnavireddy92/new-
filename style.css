@@ -1,0 +1,60 @@
+body{
+  padding-left:50px;
+  background-color:#d3d0d8;
+  display:inline-block;  
+}
+.head{
+  background-color:red;
+  color:white;
+  padding:2px;
+  margin:4px;
+}
+.abs{
+  color:red;
+}
+span{
+  font-weight:bold;
+}
+button{
+  color:white;
+  background-color:red;
+  padding:9px;
+  border:1px solid red;
+}
+a{
+  color:black;
+}
+.main{
+  padding:10px;
+  width:600px;
+  padding-left:40px;
+   background-color:white;
+}
+.main1{
+  width:400px;
+  padding:20px;
+  background-color:white;
+  
+}
+.main2{
+  width:400px;
+  padding:20px;
+  background-color:white;
+  margin-top:15px;
+}
+.division{
+  display:inline-block;
+  vertical-align:top;
+  margin:10px; 
+  padding-left:10px;  
+}
+.head p{
+  padding-left:20px;
+}
+.r{
+  padding-left:20px;
+}
+
+
+
+
